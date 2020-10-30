@@ -90,7 +90,7 @@ a{
 	margin: auto;
 	grid-template-columns: 1fr 1fr 1fr;
 	grid-template-rows: 200px 200px 200px;
-	grid-gap: 4%;
+	grid-gap: 5%;
 }
 
 .imagen{
@@ -108,7 +108,7 @@ footer{
 	background:orange;
 	margin-top: 60px;
 	width: 100%;
-	height: 50px;
+	height: 100px;
 	display: flex;
 	flex-direction: row;
 	justify-content: center;
